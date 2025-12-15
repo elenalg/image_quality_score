@@ -1,0 +1,117 @@
+{
+  "results": [
+    {
+      "image": "/home/elena.luna/preserve-im-classification/image_quality/test_quality_images/dataset3_1646_jpg.rf.e787398dd7cc8134398d825eaa09115b.jpg",
+      "quality_score": 0.1375,
+      "sharpness_score": 0.1268,
+      "exposure_score": 0.1535,
+      "brisque_score": null,
+      "metrics": {
+        "sharpness": 190.2134,
+        "exposure": 0.0767,
+        "brisque": null
+      }
+    },
+    {
+      "image": "/home/elena.luna/preserve-im-classification/image_quality/test_quality_images/dataset3_1647_jpg.rf.e0dd269cec5bde7ba55d0d0483757a67.jpg",
+      "quality_score": 0.9894,
+      "sharpness_score": 0.9992,
+      "exposure_score": 0.9748,
+      "brisque_score": null,
+      "metrics": {
+        "sharpness": 1498.8178,
+        "exposure": 0.5126,
+        "brisque": null
+      }
+    },
+    {
+      "image": "/home/elena.luna/preserve-im-classification/image_quality/test_quality_images/dataset3_1833_jpg.rf.fe66543b55e6ca154291b0f228589a07.jpg",
+      "quality_score": 0.1729,
+      "sharpness_score": 0.1299,
+      "exposure_score": 0.2374,
+      "brisque_score": null,
+      "metrics": {
+        "sharpness": 194.903,
+        "exposure": 0.8813,
+        "brisque": null
+      }
+    },
+    {
+      "image": "/home/elena.luna/preserve-im-classification/image_quality/test_quality_images/dataset3_ZFQ7GCWZAMS1_jpg.rf.5758fa0192202ccf7925d128e6768b0c.jpg",
+      "quality_score": 0.9452,
+      "sharpness_score": 1.0,
+      "exposure_score": 0.8629,
+      "brisque_score": null,
+      "metrics": {
+        "sharpness": 1653.3153,
+        "exposure": 0.5685,
+        "brisque": null
+      }
+    },
+    {
+      "image": "/home/elena.luna/preserve-im-classification/image_quality/test_quality_images/dataset3_images543_jpg.rf.bfcb996b837a7ebf0cf82389f24d31ee.jpg",
+      "quality_score": 0.466,
+      "sharpness_score": 0.3807,
+      "exposure_score": 0.594,
+      "brisque_score": null,
+      "metrics": {
+        "sharpness": 571.0555,
+        "exposure": 0.297,
+        "brisque": null
+      }
+    },
+    {
+      "image": "/home/elena.luna/preserve-im-classification/image_quality/test_quality_images/dataset7_1f5d50076796873f54e30d095f82eb9c4d7fc3f8_full_jpg.rf.06c5cad33ecf07184ebafefec4682e3b.jpg",
+      "quality_score": 0.3256,
+      "sharpness_score": 0.2991,
+      "exposure_score": 0.3654,
+      "brisque_score": null,
+      "metrics": {
+        "sharpness": 448.6011,
+        "exposure": 0.1827,
+        "brisque": null
+      }
+    },
+    {
+      "image": "/home/elena.luna/preserve-im-classification/image_quality/test_quality_images/dataset7_23_png.rf.01111e78b8c7497670b2970a04d07ab3.jpg",
+      "quality_score": 0.3688,
+      "sharpness_score": 0.294,
+      "exposure_score": 0.481,
+      "brisque_score": null,
+      "metrics": {
+        "sharpness": 440.9741,
+        "exposure": 0.2405,
+        "brisque": null
+      }
+    },
+    {
+      "image": "/home/elena.luna/preserve-im-classification/image_quality/test_quality_images/dataset7_2_png.rf.52769bc7f06168597cc8a2b471cb453b.jpg",
+      "quality_score": 0.5022,
+      "sharpness_score": 0.5051,
+      "exposure_score": 0.4978,
+      "brisque_score": null,
+      "metrics": {
+        "sharpness": 757.7058,
+        "exposure": 0.2489,
+        "brisque": null
+      }
+    },
+    {
+      "image": "/home/elena.luna/preserve-im-classification/image_quality/test_quality_images/dataset9_image_634_jpg.rf.4cb83e9203e17505fd1b3a8a411880c7.jpg",
+      "quality_score": 0.2205,
+      "sharpness_score": 0.3061,
+      "exposure_score": 0.0922,
+      "brisque_score": null,
+      "metrics": {
+        "sharpness": 459.1604,
+        "exposure": 0.0461,
+        "brisque": null
+      }
+    }
+  ],
+  "summary": {
+    "total": 9,
+    "errors": 0,
+    "processed": 9
+  }
+}

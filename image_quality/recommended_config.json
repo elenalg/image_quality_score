@@ -1,0 +1,12 @@
+{
+  "sharpness_threshold": 46.53,
+  "exposure_threshold": 0.141,
+  "max_sharpness": 1500.0,
+  "max_brisque": 100.0,
+  "quality_score_thresholds": {
+    "conservative": 0.20,
+    "moderate": 0.40,
+    "strict": 0.60
+  }
+}
+

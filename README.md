@@ -4,7 +4,7 @@ Minimal bundle to compute quality scores for images.
 
 ## Estructura
 ```
-image_quality_cli/
+image_quality_score/
 ├── get_image_score.py          # CLI de scoring
 └── image_quality/              # Módulo
     ├── __init__.py
@@ -15,7 +15,7 @@ image_quality_cli/
 
 ## Instalación rápida
 ```bash
-cd get_quality_score_cli
+cd image_quality_score
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r image_quality/requirements.txt
